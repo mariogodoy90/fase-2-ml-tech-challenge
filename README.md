@@ -10,7 +10,6 @@ Este projeto realiza uma análise exploratória dos dados históricos do Ibovesp
 ## Estrutura do Projeto
 
 ```plaintext
-meu_projeto/
 │
 ├── preparacao_dados.ipynb
 ├── analise_exploratoria.ipynb
